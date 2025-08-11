@@ -1,0 +1,12 @@
+# Ignore data and notebooks
+data/
+notebooks/
+
+# Ignore virtual environment and Python-specific files
+venv/
+.ipynb_checkpoints/
+__pycache__/
+
+# Ignore DVC files
+.dvc/
+.dvcignore
